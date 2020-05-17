@@ -1,0 +1,6 @@
+it.todo('all slots are checked by default')
+it.todo('can toggle individual slots')
+it.todo('clicking on a day toggles the whole day')
+it.todo('clicking on a time slot toggles the whole week for that time slot')
+it.todo('outputs availability only')
+it.todo('accets and input of availability')

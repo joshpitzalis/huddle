@@ -15,7 +15,7 @@
     "ecmaVersion": 11,
     "sourceType": "module"
   },
-  "plugins": ["react"],
+  "plugins": ["react", "immer"],
   "rules": {
     "react/react-in-jsx-scope": "off"
   }
